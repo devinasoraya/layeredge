@@ -54,3 +54,6 @@
 [11:27:43 | 15-02-2025] Last Claim Point: 14/02/2025 04:26:31
 [11:27:44 | 15-02-2025] ✅ Points claimed for 0x41CB827A811d7BbFE4Cb14729D5Fa01bEe00e4CF
 [11:27:44 | 15-02-2025] 🚨 Failed to start node for 0x41CB827A811d7BbFE4Cb14729D5Fa01bEe00e4CF: [object Object]
+[15:25:36 | 15-02-2025] Wallet Address: 0x41CB827A811d7BbFE4Cb14729D5Fa01bEe00e4CF
+[15:25:36 | 15-02-2025] Node Points: 49649
+[15:25:36 | 15-02-2025] Last Claim Point: 15/02/2025 04:27:44
