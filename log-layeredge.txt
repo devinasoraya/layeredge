@@ -379,3 +379,6 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [03:27:09 | 04-03-2025] ✅ Node started for 0x41CB827A811d7BbFE4Cb14729D5Fa01bEe00e4CF
+[08:50:55 | 04-03-2025] Wallet Address: 0x41CB827A811d7BbFE4Cb14729D5Fa01bEe00e4CF
+[08:50:55 | 04-03-2025] Node Points: 372303
+[08:50:55 | 04-03-2025] Last Claim Point: 03/03/2025 20:26:33
